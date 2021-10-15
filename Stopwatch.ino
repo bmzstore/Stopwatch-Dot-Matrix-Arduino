@@ -1,4 +1,4 @@
-#include "DMD3.h"
+#include "DMD3.h" //https://github.com/bmzstore/DMD-Uno-Shield
 #include "bmzSegment16.h"
 
 DMD3 display (2,1);
